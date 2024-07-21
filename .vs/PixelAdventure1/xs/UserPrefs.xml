@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F5D03EAD-A6F3-2B46-C9E5-B7B50C7B14BA}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2a332317-270f-4c6e-b16a-5792c02061a9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collectable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="88" Column="2" />
+      <File FileName="Assets/Scripts/Box.cs" Line="26" Column="6" />
+      <File FileName="Assets/Scripts/WallSlideCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Collectable.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PixelAdventure1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
